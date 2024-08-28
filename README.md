@@ -1,0 +1,2 @@
+# MagicTableServer
+Magic table server
